@@ -1,0 +1,15 @@
+.content-table {
+  broader-collapse: collapse;
+  text-align: center;
+  margin: 2em;
+}
+
+.input-contain {
+  position: relative;
+}
+input {
+  height: 2rem;
+  width: 40rem;
+  border: 2px solid black;
+  border-radius: 1rem;
+}
